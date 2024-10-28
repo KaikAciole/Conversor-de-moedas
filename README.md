@@ -11,7 +11,7 @@
 ### Descrição
 
 <p>Este é um projeto desenvolvido para a conclusão de um dos cursos do programa "One" da Oracle com a Alura.
-O desafio era consumir uma API com java para converter moedas em tempo real com ajuda da pŕopria e dar algumas opções de
+O desafio era consumir uma API com java para converter moedas em tempo real com ajuda da própria e dar algumas opções de
 conversões</p>
 
 ### Como rodar
