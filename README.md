@@ -3,7 +3,7 @@
     Conversor de Moedas
     <br/>
     <br/>
-    <img src="./Conversor_de_moedas/src/imgs/foto-conversor.jpg" alt="Docusaurus">
+    <img src="./Conversor_de_moedas/src/imgs/foto-conversor.jpg" alt="Conversor Image" width="300">
   </h1>
 </div>
 
